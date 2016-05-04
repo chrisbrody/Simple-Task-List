@@ -1,0 +1,18 @@
+html, body {
+	height: 100%;
+}
+body {
+	margin: 0;
+	padding: 0;
+}
+nav {
+	background-color: #FE7E00;
+	height: 5%;
+}
+section {
+	height: 90%;
+}
+footer {
+	background-color: #7ACCC8;
+	height: 5%;
+}
